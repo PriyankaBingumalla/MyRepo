@@ -1,3 +1,4 @@
+//BASE CLASS
 export class Base {
     tableName : string;
    // columnName : string;
